@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-06T21:40:13-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-06-anlise-da-base-rais/",
+    "title": "Análise da base RAIS",
+    "description": "Análise de salários da base da RAIS..",
+    "author": [
+      {
+        "name": "Vinícius Ferreira",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-06",
+    "categories": [],
+    "contents": "\r\nPrimeiro post.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-06T22:04:57-03:00",
+    "input_file": "anlise-da-base-rais.knit.md"
   }
 ]
